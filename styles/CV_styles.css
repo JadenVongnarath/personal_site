@@ -1,0 +1,18 @@
+h1,
+#NOTE,
+.education,
+.experience,
+.projects,
+#ski,
+#links {
+    text-align: center;
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+li {
+    text-align: center;
+}
